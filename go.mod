@@ -23,13 +23,13 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/luna-duclos/instrumentedsql v1.1.3
-	github.com/mikefarah/yq/v4 v4.27.2
+	github.com/mikefarah/yq/v4 v4.27.3
 	github.com/ory/analytics-go/v4 v4.0.3
 	github.com/ory/graceful v0.1.3
 	github.com/ory/herodot v0.9.13
 	github.com/ory/jsonschema/v3 v3.0.7
 	github.com/ory/keto/proto v0.8.0-alpha.2
-	github.com/ory/x v0.0.451
+	github.com/ory/x v0.0.461
 	github.com/pelletier/go-toml v1.9.5
 	github.com/phayes/freeport v0.0.0-20220201140144-74d24b5ae9f5
 	github.com/pkg/errors v0.9.1
@@ -44,7 +44,7 @@ require (
 	github.com/tidwall/sjson v1.2.4
 	github.com/urfave/negroni v1.0.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.33.0
-	go.opentelemetry.io/otel v1.8.0
+	go.opentelemetry.io/otel v1.9.0
 	go.uber.org/goleak v1.1.12
 	golang.org/x/exp v0.0.0-20220518171630-0b5c67f07fdf
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
@@ -59,7 +59,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
 	github.com/a8m/envsubst v1.3.0 // indirect
-	github.com/alecthomas/participle/v2 v2.0.0-beta.4 // indirect
+	github.com/alecthomas/participle/v2 v2.0.0-beta.5 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/avast/retry-go/v4 v4.1.0 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
@@ -99,7 +99,7 @@ require (
 	github.com/gobuffalo/plush/v4 v4.1.14 // indirect
 	github.com/gobuffalo/tags/v3 v3.1.3 // indirect
 	github.com/gobuffalo/validate/v3 v3.3.2 // indirect
-	github.com/goccy/go-json v0.9.10 // indirect
+	github.com/goccy/go-json v0.9.11 // indirect
 	github.com/goccy/go-yaml v1.9.5 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
@@ -183,14 +183,14 @@ require (
 	go.opentelemetry.io/contrib/propagators/b3 v1.7.0 // indirect
 	go.opentelemetry.io/contrib/propagators/jaeger v1.7.0 // indirect
 	go.opentelemetry.io/contrib/samplers/jaegerremote v0.2.0 // indirect
-	go.opentelemetry.io/otel/exporters/jaeger v1.7.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.7.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.7.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.7.0 // indirect
-	go.opentelemetry.io/otel/exporters/zipkin v1.7.0 // indirect
+	go.opentelemetry.io/otel/exporters/jaeger v1.9.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.9.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.9.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.9.0 // indirect
+	go.opentelemetry.io/otel/exporters/zipkin v1.9.0 // indirect
 	go.opentelemetry.io/otel/metric v0.30.0 // indirect
-	go.opentelemetry.io/otel/sdk v1.7.0 // indirect
-	go.opentelemetry.io/otel/trace v1.8.0 // indirect
+	go.opentelemetry.io/otel/sdk v1.9.0 // indirect
+	go.opentelemetry.io/otel/trace v1.9.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.18.0 // indirect
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
